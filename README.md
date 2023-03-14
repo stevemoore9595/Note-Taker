@@ -26,7 +26,7 @@
 
   ## Deployed Link
   
-  Click the following link to access the website: 
+  Click the following link to access the website: https://powerful-crag-86045.herokuapp.com/notes
 
   ## Questions
 
